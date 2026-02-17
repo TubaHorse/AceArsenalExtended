@@ -2,31 +2,31 @@
 class lxWS_H_bmask_base
 {
 	model="bmask_lxWS";
-	colour="Black";
+	colour="BLK";
 	turban="None";
 };
 class H_turban_02_mask_black_lxws
 {
 	model="bmask_lxWS";
-	colour="Black";
+	colour="BLK";
 	turban="Turban";
 };
 class lxWS_H_bmask_ghex
 {
 	model="bmask_lxWS";
-	colour="Green Hex";
+	colour="GHEX";
 	turban="None";
 };
 class lxWS_H_bmask_hex
 {
 	model="bmask_lxWS";
-	colour="Hex";
+	colour="HEX";
 	turban="None";
 };
 class H_turban_02_mask_hex_lxws
 {
 	model="bmask_lxWS";
-	colour="Hex";
+	colour="HEX";
 	turban="Turban";
 };
 class lxWS_H_bmask_camo01
@@ -50,19 +50,19 @@ class H_turban_02_mask_snake_lxws
 class lxWS_H_bmask_white
 {
 	model="bmask_lxWS";
-	colour="White";
+	colour="WHT";
 	turban="None";
 };
 class lxWS_H_bmask_camo02
 {
 	model="bmask_lxWS";
-	colour="Woodland";
+	colour="MCW";
 	turban="None";
 };
 class lxWS_H_bmask_yellow
 {
 	model="bmask_lxWS";
-	colour="Yellow";
+	colour="YLW";
 	turban="None";
 };
 
@@ -104,7 +104,7 @@ class lxWS_H_PASGT_basic_UN_F
 };
 class lxWS_H_PASGT_goggles_UN_F
 {
-	model="acebi_basic_helm"
+	model="acebi_basic_helm";
 	camo="UNA";
 	goggles="Yes";
 };
@@ -145,7 +145,7 @@ class lxWS_H_Beret_Colonel
 	model="acebi_beret_faction";
 	faction="UNA";
 	rank="Colonel";
-}
+};
 
 // Boonie
 class lxWS_H_Booniehat_desert
@@ -187,7 +187,7 @@ class lxWS_H_Tank_tan_F
 class lxWS_H_MilCap_desert
 {
 	model="acebi_mil_cap";
-	camo="Desert"
+	camo="Desert";
 };
 
 // Old Helmet

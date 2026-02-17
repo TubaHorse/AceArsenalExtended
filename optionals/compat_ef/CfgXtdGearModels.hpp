@@ -1,5 +1,6 @@
 class XtdGearModels
 {
+    class SleevesBase;
     class CamoBase
     {
         class EF_MPTD

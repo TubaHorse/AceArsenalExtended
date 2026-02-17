@@ -127,7 +127,24 @@ class EF_V_AAV_Diver_Black
 	loadout="Diver";
 	camo="BLK";
 };
-
+class EF_V_AAV_Diver_NoReb_Black
+{
+	model="AAV_EF";
+	loadout="Clean";
+	camo="BLK";
+};
+class EF_V_AAV_Diver_NoReb_Coy
+{
+	model="AAV_EF";
+	loadout="Clean";
+	camo="CYT";
+};
+class EF_V_AAV_Diver_NoReb_Olive
+{
+	model="AAV_EF";
+	loadout="Clean";
+	camo="OLI";
+};
 // Commando Chest Rig
 class EF_V_CCR_Rifleman_Coy
 {

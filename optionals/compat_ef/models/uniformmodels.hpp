@@ -12,12 +12,9 @@ class MCU_EF
 		values[] = {"EF_MPTD","EF_MPTW"};
 		alwaysSelectable=1;
 	};
-	class sleeves
+	class sleeves: SleevesBase
 	{
-		label="Sleeves";
-		values[]={"Standard","Rolled"};
-		alwaysSelectable=1;
-		changeingame=1;
+		values[]={"Full","Half"};
 	};
 	class gloves
 	{

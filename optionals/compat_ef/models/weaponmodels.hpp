@@ -80,3 +80,13 @@ class acebi_fnk45
 		values[] += {"CYT"};
 	};
 };
+
+class EF_smg
+{
+	label="Diplomat 9 mm";
+	options[]={"camo"};
+	class camo
+	{
+		values[]={"BLK","CYT","GHEX","HEX"};
+	};
+};

@@ -5,7 +5,7 @@ class AAV_EF
 	class loadout
 	{
 		label = "Loadout";
-		values[] = {"Standard","Rifleman","Sailor","Scout","Support","TL","Diver"};
+		values[] = {"Clean","Standard","Rifleman","Sailor","Scout","Support","TL","Diver"};
 		alwaysSelectable=1;
 		changeInGame=0;
 	};

@@ -5,7 +5,7 @@ class CfgPatches
     units[] = {};
     weapons[] = {};
     requiredVersion = "1.0";
-    requiredAddons[] = {"aceax_gearinfo", "aceax_acebi_compat"};
+    requiredAddons[] = {"aceax_gearinfo", "aceax_acebi_compat","data_f_lxWS"};
     author = "TubaHorse";
   };
 };

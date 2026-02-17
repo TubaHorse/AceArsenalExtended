@@ -93,3 +93,24 @@ class EF_launch_B_Titan_Coy{
 	camo="CYT";
 };
 
+// Diplomat SMG
+class EF_smg_Diplomat
+{
+	model="EF_smg";
+	camo="BLK";
+};
+class EF_smg_Diplomat_Coy
+{
+	model="EF_smg";
+	camo="CYT";
+};
+class EF_smg_Diplomat_Ghex
+{
+	model="EF_smg";
+	camo="GHEX";
+};
+class EF_smg_Diplomat_Hex
+{
+	model="EF_smg";
+	camo="HEX";
+};

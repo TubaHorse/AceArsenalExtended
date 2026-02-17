@@ -11,4 +11,8 @@ class XtdGearInfos
     {
       #include "infos\backpackinfos.hpp"
     };
+    class CfgGlasses
+    {
+      #include "infos\facewearinfos.hpp"
+    };
 };
